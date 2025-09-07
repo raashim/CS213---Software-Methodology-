@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.uiruclinic","l":"com.example.uiruclinic"},{"m":"com.example.uiruclinic","l":"com.example.uiruclinic.src.softmeth.project2"},{"m":"com.example.uiruclinic","l":"com.example.uiruclinic.src.util"}];updateSearchResults();
